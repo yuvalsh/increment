@@ -20,7 +20,7 @@ Hacker News is a community where readers are mainly from tech world. If you subm
 
 If you get enough upvotes, you will be on the front page where thousands of people will see your submission. [xthousands] How long you will stay on the front page is determined by readers. [fn:fp]
 
-You can also ask Hacker News and get feedback. But that's another story.
+You can also ask Hacker News and get feedback. But that's another story. [I think it's not relevant - Yuval]
 
 **Comments**
 
